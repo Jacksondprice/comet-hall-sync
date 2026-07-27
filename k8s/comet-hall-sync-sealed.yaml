@@ -1,0 +1,8 @@
+apiVersion: bitnami.com/v1alpha1
+kind: SealedSecret
+metadata:
+  name: comet-hall-sync-secrets
+spec:
+  encryptedData:
+    DB_PASSWORD: AgeLV8EyyKqXPwAwNtKoDHI2eheI8bEVvPZGwqB55y5lhfm5YoZuZpMP8Q9m5CwsJFL9gR33IP5qI2r09p/yzwIGSgbqXzB0ancJzue4/mIPuWmWiUhE5ObcIwIvBLjbBbryLw4jvdocvgyXczrHFgFSEkS3V4ahDxuYX/LzwzAq8qJfvqNXoFGe/7x/Sg+slsvJZgfiQKhOEhD1kSSmLLdF/CKxEv9XK8f27GCAu+6sAcJ3UO1zuFCjsDFUGxPbJbLflDw9paIZ2xU3E453Attr362anuhEdbteSUd/fgF8ZJ==
+    API_TOKEN: Ag4TyGvuaoXYhuYc7jeiwkK7we3RVWTJChaJOewrSJ2gL+dkkuv/RONGgB5UJBvfr79Vh/Zf6iD8HvIPEKmETHkkqSOEkOHqUO1zzD5VWLXy0AMWV72e3o43tGn4rmAdog40UE+7spAeSS/VLVUtQuPGR6WYpDLlDWwykrryrnDJu9D6NHS07kdEp3ZOY2thqx9IhaPl3LIQ5eCF6s+SeY0JewTOsNrQeYTmV2qNVZvYIHyIyo8hGf1Xn6EDiWXiVaBlaNgMQ+DFyd21rcHoXVuu/+CxjIsiPMPCOEbBrUmna2==
